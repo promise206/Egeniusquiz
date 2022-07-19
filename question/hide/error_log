@@ -1,0 +1,6 @@
+[21-Oct-2019 10:35:19 America/New_York] PHP Warning:  include(../members/user.class.php): failed to open stream: No such file or directory in /home/egenujyx/public_html/question/hide/airtimequiz_start.php on line 5
+[21-Oct-2019 10:35:19 America/New_York] PHP Warning:  include(): Failed opening '../members/user.class.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/egenujyx/public_html/question/hide/airtimequiz_start.php on line 5
+[21-Oct-2019 10:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/egenujyx/public_html/question/hide/airtimequiz_start.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/egenujyx/public_html/question/hide/airtimequiz_start.php on line 6
